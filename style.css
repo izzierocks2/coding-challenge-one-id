@@ -1,0 +1,23 @@
+.parent-container{
+    display: flex;
+}
+
+.text{
+    display: flex;
+    text-align: center;
+    width: 600px;
+    
+}
+
+div{
+    width: 600px;
+    border: 10px solid gray;
+    padding: 50px;
+    margin 20px;
+    align-items: center;
+}
+
+.image{
+    height: 400px;
+    width: 400px;
+}
